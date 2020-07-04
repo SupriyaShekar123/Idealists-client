@@ -9,14 +9,10 @@
 ---
 
 1. [Overview](#overview)
-2. [Who are we?](#-----------who-are-we------------)
-3. [Learning Goals:](#---learning-goals----)
-4. [Challenges](#---challenges---)
-5. [Technologies used:](#---technologies-used----)
-
-   - [Client:](#client-)
-   - [Server:](#server-)
-
+2. [Who are we?](#👩‍💻👨‍💻-who are we?👨‍💻👩‍💻)
+3. [Learning Goals:](#🤓-learning-goals:-🤓)
+4. [Challenges](#🧩-challenges-🧩)
+5. [Technologies used:](#⚛️-technologies-used:-💻)
 6. [Features](#features)
 
    - [User login](#user-login)
@@ -24,7 +20,7 @@
    - [Admin login](#admin-login)
    - [Specialist login](#specialist-login)
 
-7. [Future Features / To-Do](#future-features---to-do)
+7. [Future Features / To-Do](#future-features-/-to-do)
 8. [Available Scripts](#available-scripts)
 
 ---
@@ -35,7 +31,7 @@
 
 ---
 
-### 👩‍💻👨‍💻 Who are we? 👨‍💻👩‍💻
+### 👩‍💻👨‍💻 Who are we?👨‍💻👩‍💻
 
 We’re four full stack developers from the [Codaisseur](https://codaisseur.com/hire-developers/) Academy, coming from four different countries who teamed up to contribute to the Idealist project by implementing new features to an already existing codebase. 
 
