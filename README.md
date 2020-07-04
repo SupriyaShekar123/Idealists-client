@@ -2,32 +2,15 @@
 
 ## Matching platform for investors and people with great ideas!
 
-![](<./readme-assets/idealists-app(1).gif>)
+![](Documentation/DemoDisplay.gif)
 
 ### See the site deployed here: [https://www.imaengine.io/](https://www.imaengine.io/)
-
----
-
-1. [Overview](#overview)
-2. [Who are we?](#👩‍💻👨‍💻-who are we?👨‍💻👩‍💻)
-3. [Learning Goals:](#🤓-learning-goals:-🤓)
-4. [Challenges](#🧩-challenges-🧩)
-5. [Technologies used:](#⚛️-technologies-used:-💻)
-6. [Features](#features)
-
-   - [User login](#user-login)
-   - [Investor login](#investor-login)
-   - [Admin login](#admin-login)
-   - [Specialist login](#specialist-login)
-
-7. [Future Features / To-Do](#future-features-/-to-do)
-8. [Available Scripts](#available-scripts)
-
----
+ 
+ ---
 
 ## Overview
 
-[The Idealists](https://www.the-idealists.com/) is an organization that matches investors and people with ideas that fit within the UN’s Sustainable Development Goals. We worked on their dashboard app that allows all parties involved - investors, experts, specialists, users, and admin - to engage with and develop approved ideas into new companies. [PDF](./readme-assets/the-Idealists.pdf)
+[The Idealists](https://www.the-idealists.com/) is an organization that matches investors and people with ideas that fit within the UN’s Sustainable Development Goals. We worked on their dashboard app that allows all parties involved - investors, experts, specialists, users, and admin - to engage with and develop approved ideas into new companies. [PDF](Documentation/the-Idealists.pdf)
 
 ---
 
@@ -35,7 +18,7 @@
 
 We’re four full stack developers from the [Codaisseur](https://codaisseur.com/hire-developers/) Academy, coming from four different countries who teamed up to contribute to the Idealist project by implementing new features to an already existing codebase. 
 
-![](./readme-assets/team.jpg)
+![](Documentation/Team.jpg)
 
 In no particular order:
 
@@ -67,7 +50,7 @@ Due to the circumstances during COVID-19 outbreak we found ourselves working rem
 
 Despite challenges we had a lot of fun working on this project and we managed to deliver all features requested in the user stories including a big part of the “nice-to-haves”!
 
-![](./readme-assets/kanban1.png)
+![](Documentation/KanBan.png)
 
 ---
 
