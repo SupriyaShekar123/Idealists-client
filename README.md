@@ -56,47 +56,20 @@ Despite challenges we had a lot of fun working on this project and we managed to
 
 ## ⚛️ Technologies used: 💻
 
-### Client:
+| Client                                                                         | Server                                                                  | 
+|  ----------------------------------------------------------------------------- | ----------------------------------------------------------------------- | 
+| [React](https://github.com/facebook/react)                                     | [TypeScript](https://github.com/microsoft/TypeScript)                   | 
+| React hooks                                                                    | [TypeORM](https://github.com/typeorm/typeorm)                           | 
+| [Emotion CSS](https://github.com/emotion-js/emotion) styled components         | [PostgreSQL](https://github.com/postgres/postgres)                      |
+| [Material UI](https://github.com/mui-org/material-ui)                          | [node.js](https://github.com/nodejs)                                    |
+| [simple-react-validator](https://github.com/dockwa/simple-react-validator)     | [express server](https://github.com/expressjs/express)                  |
+| [cloudinary-react](https://github.com/cloudinary/cloudinary-react)             | [routing controllers](https://github.com/typestack/routing-controllers) |
+| [react-pdf](https://github.com/diegomura/react-pdf)                            | [nodemailer](https://github.com/nodemailer/nodemailer)                  |
+|                                                                                | [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)              |
+|                                                                                | [bcrypt](https://github.com/kelektiv/node.bcrypt.js/)                   |
+|                                                                                | [Docker](https://github.com/docker)                                     |
 
-- [React](https://github.com/facebook/react)
-
-- React hooks
-
-- [Emotion CSS](https://github.com/emotion-js/emotion) styled components
-
-- [Material UI](https://github.com/mui-org/material-ui)
-
-- [simple-react-validator](https://github.com/dockwa/simple-react-validator)
-
-- [cloudinary-react](https://github.com/cloudinary/cloudinary-react)
-
-- [react-pdf](https://github.com/diegomura/react-pdf)
-
----
-
-### Server:
-
-- [TypeScript](https://github.com/microsoft/TypeScript)
-
-- [TypeORM](https://github.com/typeorm/typeorm)
-
-- [PostgreSQL](https://github.com/postgres/postgres)
-
-- [node.js](https://github.com/nodejs)
-
-- [express server](https://github.com/expressjs/express)
-
-- [routing controllers](https://github.com/typestack/routing-controllers)
-
-- [nodemailer](https://github.com/nodemailer/nodemailer)
-
-- [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken),
-
-- [bcrypt](https://github.com/kelektiv/node.bcrypt.js/)
-
-- [Docker](https://github.com/docker)
-
-#### Code from the server repository may be shared upon request.
+#### The server repo is private because it contains business logic. Because of this, the Product Owner would be happy to provide a reference upon request.
 
 ---
 
